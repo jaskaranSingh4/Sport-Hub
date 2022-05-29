@@ -16,7 +16,9 @@ Responsive Web design: The goal of responsive web design is to create web pages 
 # Mobile View
 ![Alt text](./screenshot-1.png?raw=true "Title")
 
-Adobe Photoshop:-It is a  designing tool, used for image writing, creating website designs, graphics creation and many more. This works on various patterns and textures. I have prepared a design using photoshop, for which I'm attaching a screenshot of that. This pattern is build using different colour schemas and patterns.
+# Adobe Photoshop:-
+
+It is a  designing tool, used for image writing, creating website designs, graphics creation and many more. This works on various patterns and textures. I have prepared a design using photoshop, for which I'm attaching a screenshot of that. This pattern is build using different colour schemas and patterns.
 
 ![Alt text](./design.jpeg?raw=true "Title")
 
