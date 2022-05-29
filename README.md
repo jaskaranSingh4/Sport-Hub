@@ -20,12 +20,16 @@ Adobe Photoshop:-It is a  designing tool, used for image writing, creating websi
 
 ![Alt text](./design.jpeg?raw=true "Title")
 
-HTML, or HyperText Markup Language, is the standardized markup language for texts that are intended to be viewed on a web browser. Technologies such as Cascading Style Sheets (CSS) and programming languages like JavaScript helps in making design and providing functionality to the HTML respectively. The website in this repository - Sport Hub is a showcase of my knowledge about the development skills.
+HTML, or HyperText Markup Language:- It is the standardized markup language for texts that are intended to be viewed on a web browser. Technologies such as Cascading Style Sheets (CSS) and programming languages like JavaScript helps in making design and providing functionality to the HTML respectively. The website in this repository - Sport Hub is a showcase of my knowledge about the development skills.
 
 # Soft skills:
 
 Good Communication Skills. 
-Digital Literacy, 
+
+Digital Literacy,
+
 Problem Solving 
+
 Team Management 
+
 Designing 
