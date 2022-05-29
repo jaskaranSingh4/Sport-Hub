@@ -12,7 +12,7 @@ Wireframes: A website wireframe, often called a screen blueprint, is a graphic i
 
 Responsive Web design: The goal of responsive web design is to create web pages that look great on any device. A responsive web design adjusts to changing screen sizes and viewports automatically. The use of HTML and CSS to automatically resize, conceal, reduce, or enlarge a website to make it seem excellent on all devices is known as responsive web design.
 # Tablet View
-![Alt text](./sceenshot-2.png?raw=true "Title")
+![Alt text](./screenshot-2.png?raw=true "Title")
 # Mobile View
 ![Alt text](./screenshot-1.png?raw=true "Title")
 
